@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: white;
+  text-align: center; /* Centers the text horizontally */
+}
+
+p {
+  font-family: verdana, sans-serif; /* Sets the font type */
+  font-size: 20px; /* Sets the text size in pixels */
+  border: 2px solid powderblue; /* Adds a border */
+  padding: 10px; /* Adds space inside the border */
+  margin: 15px; /* Adds space outside the border */
+}
+.special {
+  color: orange;
+  font-weight: bold;
+}
